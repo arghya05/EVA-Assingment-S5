@@ -1,4 +1,4 @@
-## Code1 - Setup
+## Code1 - Base Code
 **Target**
 
 . Set up the skeleton with dropout, batch Norm etc
@@ -101,3 +101,4 @@ Best test accuracy - 99.42
 **Analysis**
 
 . Reached the desired accuracy at 11th epoch with less parameters
+LR did not achived the accuracy
